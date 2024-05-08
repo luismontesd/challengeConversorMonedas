@@ -10,3 +10,12 @@ URL para las Tasas de Cambio: https://v6.exchangerate-api.com/v6/{API_KEY}/lates
 
 Ejecución
 Para ejecutar este proyecto debes: Descargar todos los archivos del proyecto Importar el proyecto a tu IDE Java Descargar y habilitar el jar de Gson y ejecutar el programa desde la clase Principal.
+
+Ejecucion:
+
+![image](https://github.com/luismontesd/challengeConversorMonedas/assets/25649735/9d88aa67-dcb0-45e4-a98e-41faa90025a4)
+
+![image](https://github.com/luismontesd/challengeConversorMonedas/assets/25649735/33ee3c50-5bed-4e99-88ff-67e791a3d7d3)
+
+![image](https://github.com/luismontesd/challengeConversorMonedas/assets/25649735/dcaeb74a-dc1d-4fa2-a465-578c3be4a6df)
+
